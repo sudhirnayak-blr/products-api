@@ -1,0 +1,14 @@
+C:\angular6\sasken-demo\ProductApi\bin\Debug\netcoreapp2.1\ProductApi.deps.json
+C:\angular6\sasken-demo\ProductApi\bin\Debug\netcoreapp2.1\ProductApi.runtimeconfig.json
+C:\angular6\sasken-demo\ProductApi\bin\Debug\netcoreapp2.1\ProductApi.runtimeconfig.dev.json
+C:\angular6\sasken-demo\ProductApi\bin\Debug\netcoreapp2.1\ProductApi.dll
+C:\angular6\sasken-demo\ProductApi\bin\Debug\netcoreapp2.1\ProductApi.pdb
+C:\angular6\sasken-demo\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.csprojAssemblyReference.cache
+C:\angular6\sasken-demo\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.csproj.CoreCompileInputs.cache
+C:\angular6\sasken-demo\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.RazorAssemblyInfo.cache
+C:\angular6\sasken-demo\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.RazorAssemblyInfo.cs
+C:\angular6\sasken-demo\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.AssemblyInfoInputs.cache
+C:\angular6\sasken-demo\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.AssemblyInfo.cs
+C:\angular6\sasken-demo\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.RazorTargetAssemblyInfo.cache
+C:\angular6\sasken-demo\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.dll
+C:\angular6\sasken-demo\ProductApi\obj\Debug\netcoreapp2.1\ProductApi.pdb
